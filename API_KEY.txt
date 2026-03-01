@@ -1,0 +1,8 @@
+To use this extension you require a GitHub API Key, to create one follow these steps:
+
+1. Ensure you have a GitHub account, one will need to be created if you do not have one
+2. Navigate to https://github.com/settings/tokens/new
+3. Click on the 'Generate new token' dropdown box and then on 'Generate new token (classic)'
+4. Set the 'Note' as anything you like and set the expiration to 'No expiration'
+5. Leave all the scope checkboxes unticked and click on 'Generate token' at the bottom of the page
+6. Copy the token created and paste it into TLDR AI at intial start-up
